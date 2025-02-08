@@ -1,5 +1,7 @@
 # 忽略MNIST
 
-*/MNIST/*
-
+MNIST/*
 *.hdf5
+
+# data 文件夹
+data/*
